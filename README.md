@@ -1,3 +1,3 @@
-ovo je demo repozitorijuma
-# ovo je naslov
-## ovo je podnaslov
+# header 1
+
+ovo je neki tekst
